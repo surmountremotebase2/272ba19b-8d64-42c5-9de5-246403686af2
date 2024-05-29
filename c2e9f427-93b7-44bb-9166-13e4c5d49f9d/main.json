@@ -1,1 +1,1 @@
-{"interval": "", "assets": ["MSFT", "NVDA", "META", "GOOG", "TSLA"], "strategy": []}
+{"groups": {}, "interval": "1min", "assets": ["MSFT", "NVDA", "META", "GOOG", "TSLA"], "strategy": []}
